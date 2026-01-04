@@ -1,0 +1,8 @@
+
+{
+  "name": "VoxSummarize AI",
+  "description": "A powerful AI-driven voice note summarizer that transcribes recordings and extracts key points and action items using Gemini's multimodal intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
