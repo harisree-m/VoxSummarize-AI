@@ -21,8 +21,6 @@
 - 📈 Highly relevant for meetings, students, and professionals
 - 🧩 Modular and scalable AI architecture
 
-## 📌 Resume Highlight
-- Developed a voice-driven AI tool that transcribes and summarizes spoken notes using speech recognition and large language models.
 
 ## 🤝 Open for Collaboration
 - Interested in improving accuracy, UI/UX, or deploying at scale
