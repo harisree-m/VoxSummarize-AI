@@ -1,20 +1,29 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🎙️ AI Voice Note Summarizer
 
-# Run and deploy your AI Studio app
+🚀 An AI-powered productivity tool that converts voice notes into clear, actionable summaries using modern speech recognition and LLMs.
 
-This contains everything you need to run your app locally.
+## 🔍 What It Does
+- 🎤 Record voice notes directly in the app
+- 📝 Transcribe speech into text
+- 🧠 Summarize key points and action items using AI
+- 🔊 (Optional) Play back the summary using text-to-speech
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+## 🛠️ Tech Stack
+- 🎧 Speech-to-Text: OpenAI Whisper / AssemblyAI
+- 🤖 LLMs: OpenAI GPT / Anthropic Claude
+- 🔊 Text-to-Speech: Optional (gTTS / ElevenLabs)
+- 🌐 Frontend: React / Flutter (optional)
+- ⚙️ Backend: Python / Node.js
 
-## Run Locally
+## 💡 Why This Project Stands Out
+- ✅ Real-world GenAI productivity use case
+- 🔗 End-to-end Voice → NLP → LLM pipeline
+- 📈 Highly relevant for meetings, students, and professionals
+- 🧩 Modular and scalable AI architecture
 
-**Prerequisites:**  Node.js
+## 📌 Resume Highlight
+- Developed a voice-driven AI tool that transcribes and summarizes spoken notes using speech recognition and large language models.
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🤝 Open for Collaboration
+- Interested in improving accuracy, UI/UX, or deploying at scale
+- Contributions and ideas are welcome!
